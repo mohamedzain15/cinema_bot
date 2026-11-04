@@ -25,8 +25,8 @@ FILE = "seen.json"
 # Leave empty to monitor all movies.
 # Or specify movie names to monitor only certain movies.
 WATCH_MOVIES = [
-    # "Spider-Man: Brand New Day",
-    # "Avengers: Doomsday",
+     "Avengers: Doomsday (Infinity Vision)",
+     "Avengers: Doomsday",
 ]
 
 # =========================
