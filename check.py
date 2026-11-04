@@ -6,7 +6,7 @@ import sys
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
-URL = "https://cfc.scenecinemas.com/home"
+URL = "https://egy.voxcinemas.com/showtimes?c=city-centre-almaza"
 TOKEN = os.environ["TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 FILE = "seen.json"
